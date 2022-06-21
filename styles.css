@@ -1,0 +1,22 @@
+
+li {
+    font-weight: bold;
+    color: greenyellow;
+    background: blue;
+    font-size: 22px;
+}
+
+#foreword {
+    background: red;
+    color: white;
+    font-weight: bolder;
+    align-content: end;
+}
+
+.click {
+    color: whitesmoke;
+}
+
+h1 {
+   font-size: 35px;
+}
